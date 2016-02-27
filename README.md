@@ -8,10 +8,6 @@ Example floating sidebar with embedded browser.
 ![image](sidebar2.png)
 
 
-### Motivation
-
-We wanted to learn about game development . This is a great way to get into the game world in a simple way .
-
 ## Contributors
 
 	David Ruiz Martin-Romo: 
@@ -21,9 +17,9 @@ We wanted to learn about game development . This is a great way to get into the 
 ```
     Copyright (C) 2016
     
-	This file is part of naveGame.
+	This file is part of DShop.
 	
-    naveGame is free software: you can redistribute it and/or modify
+    DShop is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     any later version.
