@@ -10,8 +10,8 @@ Example floating sidebar with embedded browser.
 
 ## Contributors
 
-	David Ruiz Martin-Romo: 
-	<https://github.com/daviles94/>
+David Ruiz Martin-Romo: 
+[github:daviles94/](https://github.com/daviles94/)
 
 ### License
 ```
